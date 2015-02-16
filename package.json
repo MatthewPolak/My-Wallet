@@ -1,0 +1,37 @@
+{
+  "name": "My-Wallet",
+  "version": "1.0.0",
+  "description": "Simple wallet written in React-Flux",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SolidSnakeBA/My-Wallet"
+  },
+  "keywords": [
+    "React",
+    "Flux"
+  ],
+  "author": "Matej Polak <polakmatko@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolidSnakeBA/My-Wallet/issues"
+  },
+  "homepage": "https://github.com/SolidSnakeBA/My-Wallet",
+  "dependencies": {
+    "flux": "^2.0.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.5.0",
+    "keymirror": "^0.1.1",
+    "object-assign": "^2.0.0",
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "browserify": "^8.1.3",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "reactify": "^1.0.0"
+  }
+}
